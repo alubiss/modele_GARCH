@@ -1,1 +1,1 @@
-# modele_GARCH
+# modele GARCH
